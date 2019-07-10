@@ -1,0 +1,191 @@
+.content-smmp {
+  padding: 40px 0;
+  margin: 0;
+  font-size: 15px;
+  font-family: "Poppins", sans-serif;
+  background: rgba(247, 247, 247);
+  color: rgb(73, 80, 87);
+  overflow-x: hidden;
+}
+
+.content-smmp .container {
+  max-width: 1200px;
+}
+
+.content-smmp a,
+.content-smmp p,
+.content-smmp div,
+.content-smmp b,
+.content-smmp span,
+.content-smmp td,
+.content-smmp h1,
+.content-smmp h2,
+.content-smmp h3,
+.content-smmp h4,
+.content-smmp h5,
+.content-smmp h6 {
+  color: rgb(73, 80, 87);
+}
+
+.content-smmp #inputs {
+  margin: 0;
+  margin-bottom: 30px;
+  padding: 5px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 5px 10px rgb(0, 0, 0, 0.1), 0 0px 5px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+
+.content-smmp #inputs h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 15px 15px 5px 15px;
+}
+
+.content-smmp #inputs p {
+  font-size: 14px;
+  margin: 0 15px 20px 15px;
+}
+
+.content-smmp #inputs form {
+  width: 100%;
+  margin: 0;
+}
+
+.content-smmp #inputs form > div {
+  margin-bottom: 15px;
+}
+
+.content-smmp #inputs label {
+  display: block;
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.content-smmp #inputs input {
+  margin: 1px 0;
+  border: 1px solid rgb(88, 151, 251);
+  border-radius: 4px;
+  font-size: 15px;
+  width: 100%;
+  padding: 5px;
+  padding-left: 25px;
+}
+
+.content-smmp #inputs select {
+  margin: 1px 0;
+  width: 100%;
+  border: 1px solid rgb(88, 151, 251);
+  padding: 5.5px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.content-smmp #inputs span {
+  color: #fff;
+}
+
+.content-smmp #inputs input:focus {
+  outline: 0;
+  font-size: inherit;
+  font-family: inherit;
+  border: 2px solid rgb(88, 151, 251);
+  margin: 0;
+}
+
+.content-smmp #inputs select:focus {
+  outline: 0;
+  font-size: 13px;
+  font-family: inherit;
+  border: 2px solid rgb(88, 151, 251);
+  margin: 0;
+}
+
+.content-smmp #inputs option {
+  font-size: 13px;
+}
+
+.content-smmp #budget {
+  padding-left: 25px;
+}
+
+.content-smmp #inputs .dollar {
+  position: absolute;
+  bottom: 1px;
+  left: 15px;
+  padding: 0 5px 0 10px;
+  line-height: 34px;
+  color: rgb(88, 151, 251);
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.content-smmp #results {
+  width: 100%;
+  box-shadow: 0 5px 10px rgb(0, 0, 0, 0.1), 0 0px 5px rgba(0, 0, 0, 0.05);
+  overflow-x: scroll;
+  overflow: auto;
+  display: block;
+  border-radius: 5px;
+}
+
+.content-smmp #results thead th {
+  background: rgb(255, 255, 255);
+  padding: 25px 0;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.content-smmp #results td:first-child,
+.content-smmp #results th:first-child {
+  padding: 15px 20px;
+  min-width: 200px;
+}
+
+.content-smmp #results td,
+.content-smmp #results th {
+  text-align: center;
+  padding: 15px 10px;
+  border-bottom: 1px solid rgb(237, 237, 237);
+  width: 18%;
+  background: rgb(249, 249, 249);
+  min-width: 120px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.content-smmp #results tbody td:first-child {
+  text-align: left;
+  background: rgb(255, 255, 255);
+  border-right: 1px solid rgb(237, 237, 237);
+  font-size: 14px;
+}
+
+.content-smmp #results tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.content-smmp #results .open-link {
+  display: inline-block;
+  font-weight: 600;
+  text-decoration: none !important;
+  text-transform: capitalize;
+}
+
+.content-smmp #results .open-link:hover {
+  color: rgb(88, 151, 251);
+}
+
+.content-smmp #results .open-link img {
+  max-height: 30px;
+  padding-right: 10px;
+}
+
+td.price div {
+  border: 1px solid #ddd;
+  margin: 5px 0;
+  border-radius: 5px;
+}
