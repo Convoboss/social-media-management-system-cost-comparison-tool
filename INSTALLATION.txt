@@ -17,5 +17,5 @@ CODE BELOW ON CUSTOM JAVASCRIPT SECTION:
 
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.22.0/slimselect.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/calculation.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/format.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/calculation.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/format.js"></script>
