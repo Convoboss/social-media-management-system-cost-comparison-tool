@@ -1,3 +1,8 @@
+import $ from "jquery";
+import "./grid.css";
+import "./slim.css";
+import "./styles.css";
+
 $("#inputs").html(
   "<h3>Enter your details</h3>" +
     "<p>The results will be generate automatically</p>" +

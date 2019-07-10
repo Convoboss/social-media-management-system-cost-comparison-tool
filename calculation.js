@@ -1,3 +1,5 @@
+import $ from "jquery";
+
 $(document).ready(function() {
   gather();
   let slim = new SlimSelect({
@@ -22,16 +24,16 @@ var missinglettr_link = "https://lttr.ai/EU1K";
 var viraltag_link = "https://viraltag.grsm.io/jamescooper8138";
 
 // Image url platform
-var hootsuite_image = "calculation-image/hootsuite.png";
-var socialpilot_image = "calculation-image/spilot.png";
-var socialoomph_image = "calculation-image/socialoomph.png";
-var agorapulse_image = "calculation-image/agorapulse.png";
-var communit_image = "calculation-image/communit.png";
-var crowdfire_image = "calculation-image/crowdfireapp.png";
-var loomly_image = "calculation-image/loomly.png";
-var planable_image = "calculation-image/planable.png";
-var missinglettr_image = "calculation-image/missinglettr.png";
-var viraltag_image = "calculation-image/viraltag.png";
+var hootsuite_image = "images/hootsuite.png";
+var socialpilot_image = "images/spilot.png";
+var socialoomph_image = "images/socialoomph.png";
+var agorapulse_image = "images/agorapulse.png";
+var communit_image = "images/communit.png";
+var crowdfire_image = "images/crowdfireapp.png";
+var loomly_image = "images/loomly.png";
+var planable_image = "images/planable.png";
+var missinglettr_image = "images/missinglettr.png";
+var viraltag_image = "images/viraltag.png";
 // EDIT STOP HERE
 
 // Autoupdate generator
