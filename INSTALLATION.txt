@@ -1,0 +1,16 @@
+<div class="content-smmp">
+  <div class="container-fluid container">
+    <div class="row">
+      <div class="col-md-3">
+        <div id="inputs"></div>
+      </div>
+      <div class="col-md-9">
+        <table id="results"></table>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.22.0/slimselect.min.js"></script>
+<script src="https://raw.githubusercontent.com/fauz-io/smmp-jms/master/format.js"></script>
+<script src="https://raw.githubusercontent.com/fauz-io/smmp-jms/master/calculation.js"></script>
