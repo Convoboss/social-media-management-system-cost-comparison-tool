@@ -173,6 +173,7 @@
   font-weight: 600;
   text-decoration: none !important;
   text-transform: capitalize;
+  line-height: 30px;
 }
 
 .content-smmp #results .open-link:hover {
@@ -182,6 +183,7 @@
 .content-smmp #results .open-link img {
   max-height: 30px;
   padding-right: 10px;
+  float: left;
 }
 
 td.price div {
