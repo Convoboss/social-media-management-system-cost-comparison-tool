@@ -1,7 +1,26 @@
-import $ from "jquery";
-import "./grid.css";
-import "./slim.css";
-import "./styles.css";
+var grid_css = document.createElement("link");
+grid_css.setAttribute("rel", "stylesheet");
+grid_css.setAttribute(
+  "href",
+  "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/grid.min.css"
+);
+document.getElementsByTagName("head")[0].appendChild(grid_css);
+
+var slim_css = document.createElement("link");
+slim_css.setAttribute("rel", "stylesheet");
+slim_css.setAttribute(
+  "href",
+  "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/slim.min.css"
+);
+document.getElementsByTagName("head")[0].appendChild(slim_css);
+
+var styles_css = document.createElement("link");
+styles_css.setAttribute("rel", "stylesheet");
+styles_css.setAttribute(
+  "href",
+  "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/styles.min.css"
+);
+document.getElementsByTagName("head")[0].appendChild(styles_css);
 
 $("#inputs").html(
   "<h3>Enter your details</h3>" +
