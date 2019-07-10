@@ -2,7 +2,7 @@ var grid_css = document.createElement("link");
 grid_css.setAttribute("rel", "stylesheet");
 grid_css.setAttribute(
   "href",
-  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/grid.css"
+  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/grid.css"
 );
 document.getElementsByTagName("head")[0].appendChild(grid_css);
 
@@ -10,7 +10,7 @@ var slim_css = document.createElement("link");
 slim_css.setAttribute("rel", "stylesheet");
 slim_css.setAttribute(
   "href",
-  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/slim.css"
+  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/slim.css"
 );
 document.getElementsByTagName("head")[0].appendChild(slim_css);
 
@@ -18,7 +18,7 @@ var styles_css = document.createElement("link");
 styles_css.setAttribute("rel", "stylesheet");
 styles_css.setAttribute(
   "href",
-  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/styles.css"
+  "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/styles.css"
 );
 document.getElementsByTagName("head")[0].appendChild(styles_css);
 
