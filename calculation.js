@@ -22,16 +22,16 @@ var missinglettr_link = "https://lttr.ai/EU1K";
 var viraltag_link = "https://viraltag.grsm.io/jamescooper8138";
 
 // Image url platform
-var hootsuite_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/hootsuite.png";
-var socialpilot_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/spilot.png";
-var socialoomph_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/socialoomph.png";
-var agorapulse_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/agorapulse.png";
-var communit_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/communit.png";
-var crowdfire_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/crowdfireapp.png";
-var loomly_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/loomly.png";
-var planable_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/planable.png";
-var missinglettr_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/missinglettr.png";
-var viraltag_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-management-system-cost-comparison-tool/images/viraltag.png";
+var hootsuite_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/hootsuite.png";
+var socialpilot_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/spilot.png";
+var socialoomph_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/socialoomph.png";
+var agorapulse_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/agorapulse.png";
+var communit_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/communit.png";
+var crowdfire_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/crowdfireapp.png";
+var loomly_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/loomly.png";
+var planable_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/planable.png";
+var missinglettr_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/missinglettr.png";
+var viraltag_image = "https://cdn.jsdelivr.net/gh/Convoboss/social-media-system-cost-tool/images/viraltag.png";
 // EDIT STOP HERE
 
 // Autoupdate generator
