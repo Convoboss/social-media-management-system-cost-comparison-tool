@@ -22,16 +22,16 @@ var missinglettr_link = "https://lttr.ai/EU1K";
 var viraltag_link = "https://viraltag.grsm.io/jamescooper8138";
 
 // Image url platform
-var hootsuite_image = "images/hootsuite.png";
-var socialpilot_image = "images/spilot.png";
-var socialoomph_image = "images/socialoomph.png";
-var agorapulse_image = "images/agorapulse.png";
-var communit_image = "images/communit.png";
-var crowdfire_image = "images/crowdfireapp.png";
-var loomly_image = "images/loomly.png";
-var planable_image = "images/planable.png";
-var missinglettr_image = "images/missinglettr.png";
-var viraltag_image = "images/viraltag.png";
+var hootsuite_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/hootsuite.png";
+var socialpilot_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/spilot.png";
+var socialoomph_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/socialoomph.png";
+var agorapulse_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/agorapulse.png";
+var communit_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/communit.png";
+var crowdfire_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/crowdfireapp.png";
+var loomly_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/loomly.png";
+var planable_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/planable.png";
+var missinglettr_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/missinglettr.png";
+var viraltag_image = "https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/images/viraltag.png";
 // EDIT STOP HERE
 
 // Autoupdate generator
