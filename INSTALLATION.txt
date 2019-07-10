@@ -1,3 +1,5 @@
+CODE BELOW ON CUSTOM CODE SECTION:
+
 <div class="content-smmp">
   <div class="container-fluid container">
     <div class="row">
@@ -10,7 +12,10 @@
     </div>
   </div>
 </div>
+
+CODE BELOW ON CUSTOM JAVASCRIPT SECTION:
+
 <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slim-select/1.22.0/slimselect.min.js"></script>
-<script src="https://rawcdn.githack.com/fauz-io/smmp-jms/3332934fce4474584e7babcb65e996908cfe8759/format.js"></script>
-<script src="https://rawcdn.githack.com/fauz-io/smmp-jms/3332934fce4474584e7babcb65e996908cfe8759/calculation.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/calculation.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fauz-io/smmp-jms/format.min.js"></script>
