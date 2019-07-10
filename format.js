@@ -1,4 +1,3 @@
-import $ from "jquery";
 import "./grid.css";
 import "./slim.css";
 import "./styles.css";
